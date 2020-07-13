@@ -1,0 +1,8 @@
+.nav-item {
+  float: right;
+  margin-left: 2px;
+}
+
+.navbar-light{
+  background-color: rgb(90, 99, 185);
+}
