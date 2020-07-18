@@ -65,15 +65,33 @@ export default function doorCard(props) {
         </ListGroupItem>
       </ListGroup>
       <Card.Body>
-        <Card.Link target="_blank" href={props.family_brochure_link}>
-          Brochure
-        </Card.Link>
-        <Card.Link target="_blank" href={props.model_flyer_link}>
-          Flyer
-        </Card.Link>
-        <Card.Link target="_blank" href={props.url}>
-          Website
-        </Card.Link>
+        <ul>
+          <li>
+            <Card.Link target="_blank" href={props.family_brochure_link}>
+              Brochure
+            </Card.Link>
+          </li>
+          <li>
+            <Card.Link target="_blank" href={props.model_flyer_link}>
+              Flyer Brochure
+            </Card.Link>
+          </li>
+          <li>
+            <Card.Link target="_blank" href={props.url}>
+              Website
+            </Card.Link>
+          </li>
+          <li>
+            <Card.Link target="_blank" href={props.warranty}>
+              Warranty
+            </Card.Link>
+          </li>
+          <li>
+            <Card.Link target="_blank" href={props.windload}>
+              Windload
+            </Card.Link>
+          </li>
+        </ul>
       </Card.Body>
     </Card>
   );

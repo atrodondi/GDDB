@@ -1,3 +1,6 @@
+const wdProducts = require("./WD");
+const wdArray = require("./WD");
+
 // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<PRODUCTS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 const __products = {
   "2550": {
@@ -13906,8 +13909,8 @@ makeArray = () => {
   for (const prop in __products) {
     // console.log(`${prop} = ${products[prop].panel_style}`);
     let doorModelObj = {
-      maker:"CHI",
       model: prop,
+      maker: "CHI",
       panel_style: __products[prop].panel_style,
       product_family: __products[prop].product_family,
       door_style_text: __products[prop].door_style_text,
@@ -13918,6 +13921,10 @@ makeArray = () => {
       rtm_construction_type: __products[prop].rtm_construction_type,
       rtm_insulation_type: __products[prop].rtm_insulation_type,
       section_material: __products[prop].section_material,
+      url: "",
+      images: [],
+      warranty: "",
+      windload: "https://www.chiohd.com/wind-load",
     };
     productsArray.push(doorModelObj);
   }
@@ -13934,7 +13941,7 @@ makeArray2 = () => {
       images: [
         renderData[i].data.image_gallery.slides[0].img_src,
         renderData[i].data.image_gallery.slides[1].img_src,
-        renderData[i].data.door_image.src
+        renderData[i].data.door_image.src,
         // renderData[i].data.door_image.src
       ],
     };
@@ -13954,5 +13961,9 @@ for (i in productsArray) {
     }
   }
 }
-console.log(productsArray);
-module.exports = productsArray;
+
+// concat wd and chi
+const fullProductsArray = productsArray.concat(wdArray);
+
+console.log(fullProductsArray);
+module.exports = fullProductsArray;

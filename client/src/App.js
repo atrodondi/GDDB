@@ -2,7 +2,8 @@ import React, { Component } from "react";
 import "./App.css";
 import Cookies from "js-cookie";
 import Dashboard from "./pages/dashboard";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import Wizard from "./pages/wizard"
+import { BrowserRouter as Router, Route,Switch } from "react-router-dom";
 
 class App extends Component {
   constructor(props) {
@@ -46,6 +47,7 @@ class App extends Component {
     return (
       <div className="App">
         <Router>
+          <Switch>
           <Route exact path="/">
             <Dashboard
               getCookie={this.getCookie}
@@ -54,6 +56,10 @@ class App extends Component {
               loggedIn={this.state.loggedIn}
             ></Dashboard>
           </Route>
+          <Route exact path="/wizard">
+            <Wizard></Wizard>
+          </Route>
+          </Switch>
         </Router>
       </div>
     );

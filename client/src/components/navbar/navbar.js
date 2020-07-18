@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Link from "react-router-dom";
 import { Navbar, Nav, Button, Form, FormControl } from "react-bootstrap";
 import AddClimb from "../addCHI/addCHI";
 import { FiHeart } from "react-icons/fi";
@@ -20,10 +21,10 @@ export default function navbar(props) {
   const handleSearchBtn = (event) => {
     event.preventDefault();
     console.log(search);
-    API.searchDoor(search).then((res) =>
-      {console.log("response from door search: ", res);
-      props.getCHI(res.data);}
-    );
+    API.searchDoor(search).then((res) => {
+      console.log("response from door search: ", res);
+      props.getCHI(res.data);
+    });
   };
 
   // get all climbs
@@ -43,9 +44,6 @@ export default function navbar(props) {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ml-auto">
             <Form inline>
-              <Form.Group controlId="chiCheckbox">
-                <Form.Check type="checkbox" label="C.H.I." />
-              </Form.Group>
               <FormControl
                 type="text"
                 name="search"
@@ -59,6 +57,7 @@ export default function navbar(props) {
                 Search
               </Button>
             </Form>
+            <Nav.Link href="/wizard">Wizard</Nav.Link>
             <Nav.Link href="#home">
               Home
               <div className="nav-item home">
