@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Link from "react-router-dom";
 import { Navbar, Nav, Button, Form, FormControl } from "react-bootstrap";
-import AddClimb from "../addCHI/addCHI";
+import AddDoor from "../addDoor/addDoor";
 import { FiHeart } from "react-icons/fi";
 import { AiOutlineHome } from "react-icons/ai";
 import "./style.css";
@@ -12,16 +12,16 @@ export default function navbar(props) {
   const [search, setSearch] = useState("");
 
   //   handle input change
-  const handleSearchChange = (event) => {
+  const handleSearchChange = event => {
     const { value } = event.target;
     setSearch(value);
   };
 
   // handle search btn press, yo!!
-  const handleSearchBtn = (event) => {
+  const handleSearchBtn = event => {
     event.preventDefault();
     console.log(search);
-    API.searchDoor(search).then((res) => {
+    API.searchDoor(search).then(res => {
       console.log("response from door search: ", res);
       props.getCHI(res.data);
     });
@@ -29,7 +29,7 @@ export default function navbar(props) {
 
   // get all climbs
   const getAllCHI = () => {
-    API.getAllCHI().then((res) => {
+    API.getAllCHI().then(res => {
       let doors = res.data;
       props.getCHI(doors);
     });
@@ -72,7 +72,7 @@ export default function navbar(props) {
               </div>
             </Nav.Link>
 
-            <AddClimb getCookie={props.getCookie}></AddClimb>
+            <AddDoor getCookie={props.getCookie}></AddDoor>
             {/* logout button */}
             {props.loggedIn ? (
               <Button variant="dark" onClick={props.logout}>

@@ -13,11 +13,11 @@ export default {
     return axios.get("/api/allCHI");
   },
 
-  createCHI: function (newClimb) {
-    return axios.post("/api/createCHI", newClimb);
+  createCHI: function (newDoor) {
+    return axios.post("/api/createCHI", newDoor);
   },
 
   searchDoor: function (searchQuery) {
-    return axios.get("/api/search/"+searchQuery);
-  },
+    return axios.get("/api/search/" + searchQuery);
+  }
 };

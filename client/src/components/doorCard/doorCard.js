@@ -52,14 +52,9 @@ export default function doorCard(props) {
           <strong>Price:</strong> {props.price}
         </ListGroupItem>
         <ListGroupItem>
-          <strong>R-Value:</strong> {props.r_value_text}
+          <strong>Rv:</strong> {props.r_value_text}
         </ListGroupItem>
-        <ListGroupItem>
-          <strong>Insulation:</strong> {props.rtm_insulation_type}
-        </ListGroupItem>
-        <ListGroupItem>
-          <strong>Section Construction:</strong> {props.rtm_construction_type}
-        </ListGroupItem>
+
         <ListGroupItem>
           <strong>Section Material:</strong> {props.section_material}
         </ListGroupItem>

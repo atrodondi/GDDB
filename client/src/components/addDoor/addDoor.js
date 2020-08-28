@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Button, Modal } from "react-bootstrap";
-import AddClimbForm from "../addCHIForm/addCHIForm";
+import AddDoorForm from "../addDoorForm/addDoorForm";
 
 export default function AddClimb(props) {
   const [show, setShow] = useState(false);
@@ -11,15 +11,18 @@ export default function AddClimb(props) {
   return (
     <>
       <Button variant="primary" onClick={handleShow}>
-        Add New CHI
+        Add New Door
       </Button>
 
       <Modal show={show} onHide={handleClose}>
         <Modal.Header closeButton>
-          <Modal.Title>Add New CHI Door</Modal.Title>
+          <Modal.Title>Add New Door</Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          <AddClimbForm getCookie={props.getCookie} handleClose = {handleClose}></AddClimbForm>
+          <AddDoorForm
+            getCookie={props.getCookie}
+            handleClose={handleClose}
+          ></AddDoorForm>
         </Modal.Body>
         <Modal.Footer>
           <Button variant="secondary" onClick={handleClose}>
