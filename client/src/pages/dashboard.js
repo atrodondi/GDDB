@@ -7,7 +7,6 @@ export default function Dashboard(props) {
 
   const getCHI = (chiDoors) => {
     setchiDoors(chiDoors);
-    console.log("THE END ALL CLIMB LIST-->", chiDoors);
   };
   return (
     <div>

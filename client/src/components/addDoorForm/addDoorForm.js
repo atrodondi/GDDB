@@ -109,12 +109,15 @@ export default function addCHIForm(props) {
         <Form.Control as="select" name="rating" onChange={handleInputChange}>
           <option>....</option>
           <option>Full-View</option>
-          <option>Carriage Overlay</option>
+          <option>Carriage Overlay Steel</option>
           <option>Flush</option>
           <option>Carriage House Wood</option>
+          <option>Traditional Wood</option>
           <option>Fiberglass</option>
           <option>Carriage Steel</option>
           <option>Classic Steel</option>
+          <option>Modern</option>
+          <option>Custom</option>
         </Form.Control>
       </Form.Group>
       <Form.Row>

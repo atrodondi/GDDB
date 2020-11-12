@@ -15,7 +15,8 @@ const __products = {
     r_value_text: " -",
     rtm_construction_type: '2" Thick - 1-Sided Steel',
     rtm_insulation_type: "No Insulation",
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   2551: {
     panel_style: "Shaker",
@@ -29,7 +30,8 @@ const __products = {
     r_value_text: "7.94",
     rtm_construction_type: '2" Thick - 1-Sided Steel with Vinyl Back',
     rtm_insulation_type: '1-3/8" Polystyrene',
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   2583: {
     panel_style: "Shaker",
@@ -43,7 +45,8 @@ const __products = {
     r_value_text: "9.65",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2518: {
     panel_style: "Shaker",
@@ -57,7 +60,8 @@ const __products = {
     r_value_text: "16.55",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2150: {
     panel_style: "Flush",
@@ -70,7 +74,8 @@ const __products = {
     r_value_text: " -",
     rtm_construction_type: '2" Thick - 1-Sided Steel',
     rtm_insulation_type: "No Insulation",
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   2140: {
     panel_style: "Flush",
@@ -83,7 +88,8 @@ const __products = {
     r_value_text: " -",
     rtm_construction_type: '2" Thick - 1-Sided Steel',
     rtm_insulation_type: "No Insulation",
-    section_material: "Heavy Duty / 24 Ga. Steel"
+    section_material: "Heavy Duty / 24 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   2151: {
     panel_style: "Flush",
@@ -96,7 +102,8 @@ const __products = {
     r_value_text: "7.94",
     rtm_construction_type: '2" Thick - 1-Sided Steel with Vinyl Back',
     rtm_insulation_type: '1-3/8" Polystyrene',
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   2141: {
     panel_style: "Flush",
@@ -109,7 +116,8 @@ const __products = {
     r_value_text: "7.94",
     rtm_construction_type: '2" Thick - 1-Sided Steel with Vinyl Back',
     rtm_insulation_type: '1-3/8" Polystyrene',
-    section_material: "Heavy Duty / 24 Ga. Steel"
+    section_material: "Heavy Duty / 24 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   2127: {
     panel_style: "Flush",
@@ -122,7 +130,8 @@ const __products = {
     r_value_text: "10.29",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2128: {
     panel_style: "Flush",
@@ -135,7 +144,8 @@ const __products = {
     r_value_text: "17.54",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   4150: {
     panel_style: "Flush",
@@ -148,7 +158,8 @@ const __products = {
     r_value_text: " -",
     rtm_construction_type: '2" Thick - 1-Sided Steel',
     rtm_insulation_type: "No Insulation",
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   4140: {
     panel_style: "Flush",
@@ -161,7 +172,8 @@ const __products = {
     r_value_text: " -",
     rtm_construction_type: '2" Thick - 1-Sided Steel',
     rtm_insulation_type: "No Insulation",
-    section_material: "Heavy Duty /  24 Ga. Steel"
+    section_material: "Heavy Duty /  24 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   4151: {
     panel_style: "Flush",
@@ -174,7 +186,8 @@ const __products = {
     r_value_text: "7.94",
     rtm_construction_type: '2" Thick - 1-Sided Steel with Vinyl Back',
     rtm_insulation_type: '1-3/8" Polystyrene',
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   4141: {
     panel_style: "Flush",
@@ -187,7 +200,8 @@ const __products = {
     r_value_text: "7.94",
     rtm_construction_type: '2" Thick - 1-Sided Steel with Vinyl Back',
     rtm_insulation_type: '1-3/8" Polystyrene',
-    section_material: "Heavy Duty / 24 Ga. Steel"
+    section_material: "Heavy Duty / 24 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   2147: {
     panel_style: "Flush",
@@ -200,7 +214,8 @@ const __products = {
     r_value_text: "10.29",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2148: {
     panel_style: "Flush",
@@ -213,7 +228,8 @@ const __products = {
     r_value_text: "17.54",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2157: {
     panel_style: "Flush",
@@ -226,7 +242,8 @@ const __products = {
     r_value_text: "10.29",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2158: {
     panel_style: "Flush",
@@ -239,7 +256,8 @@ const __products = {
     r_value_text: "17.54",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2327: {
     panel_style: "Planks",
@@ -253,7 +271,8 @@ const __products = {
     r_value_text: "10.29",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2347: {
     panel_style: "Planks",
@@ -267,7 +286,8 @@ const __products = {
     r_value_text: "10.29",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2357: {
     panel_style: "Planks",
@@ -281,7 +301,8 @@ const __products = {
     r_value_text: "10.29",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2328: {
     panel_style: "Planks",
@@ -295,7 +316,8 @@ const __products = {
     r_value_text: "17.54",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2348: {
     panel_style: "Planks",
@@ -309,7 +331,8 @@ const __products = {
     r_value_text: "17.54",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2358: {
     panel_style: "Planks",
@@ -323,7 +346,8 @@ const __products = {
     r_value_text: "17.54",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   5602: {
     panel_style: "Steel Overlay",
@@ -337,7 +361,8 @@ const __products = {
     r_value_text: "17.54",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2250: {
     panel_style: "Short Panel",
@@ -351,7 +376,8 @@ const __products = {
     r_value_text: " -",
     rtm_construction_type: '2" Thick - 1-Sided Steel',
     rtm_insulation_type: "No Insulation",
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   2240: {
     panel_style: "Short Panel",
@@ -365,7 +391,8 @@ const __products = {
     r_value_text: " -",
     rtm_construction_type: '2" Thick - 1-Sided Steel',
     rtm_insulation_type: "No Insulation",
-    section_material: "Heavy Duty / 24 Ga. Steel"
+    section_material: "Heavy Duty / 24 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   2255: {
     panel_style: "Short Panel",
@@ -379,7 +406,8 @@ const __products = {
     r_value_text: "3.56",
     rtm_construction_type: '2" Thick - 1-Sided Steel with Vinyl Back',
     rtm_insulation_type: '9/16" Polystyrene',
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   2251: {
     panel_style: "Short Panel",
@@ -393,7 +421,8 @@ const __products = {
     r_value_text: "7.94",
     rtm_construction_type: '2" Thick - 1-Sided Steel with Vinyl Back',
     rtm_insulation_type: '1-3/8" Polystyrene',
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   2241: {
     panel_style: "Short Panel",
@@ -407,7 +436,8 @@ const __products = {
     r_value_text: "7.94",
     rtm_construction_type: '2" Thick - 1-Sided Steel with Vinyl Back',
     rtm_insulation_type: '1-3/8" Polystyrene',
-    section_material: "Heavy Duty / 24 Ga. Steel"
+    section_material: "Heavy Duty / 24 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   2283: {
     panel_style: "Short Panel",
@@ -421,7 +451,8 @@ const __products = {
     r_value_text: "9.65",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2206: {
     panel_style: "Short Panel",
@@ -435,7 +466,8 @@ const __products = {
     r_value_text: "13.40",
     rtm_construction_type: '1-1/2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-3/8" Polyurethane',
-    section_material: "Medium Duty / 28 Ga. Steel"
+    section_material: "Medium Duty / 28 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2216: {
     panel_style: "Short Panel",
@@ -449,7 +481,8 @@ const __products = {
     r_value_text: "17.19",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   4250: {
     panel_style: "Long Panel",
@@ -463,7 +496,8 @@ const __products = {
     r_value_text: " -",
     rtm_construction_type: '2" Thick - 1-Sided Steel',
     rtm_insulation_type: "No Insulation",
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   4240: {
     panel_style: "Long Panel",
@@ -477,7 +511,8 @@ const __products = {
     r_value_text: " -",
     rtm_construction_type: '2" Thick - 1-Sided Steel',
     rtm_insulation_type: "No Insulation",
-    section_material: "Heavy Duty / 24 Ga. Steel"
+    section_material: "Heavy Duty / 24 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   4255: {
     panel_style: "Long Panel",
@@ -491,7 +526,8 @@ const __products = {
     r_value_text: "3.56",
     rtm_construction_type: '2" Thick - 1-Sided Steel with Vinyl Back',
     rtm_insulation_type: '9/16" Polystyrene',
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   4251: {
     panel_style: "Long Panel",
@@ -505,7 +541,8 @@ const __products = {
     r_value_text: "7.94",
     rtm_construction_type: '2" Thick - 1-Sided Steel with Vinyl Back',
     rtm_insulation_type: '1-3/8" Polystyrene',
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   4241: {
     panel_style: "Long Panel",
@@ -519,7 +556,8 @@ const __products = {
     r_value_text: "7.94",
     rtm_construction_type: '2" Thick - 1-Sided Steel with Vinyl Back',
     rtm_insulation_type: '1-3/8" Polystyrene',
-    section_material: "Heavy Duty / 24 Ga. Steel"
+    section_material: "Heavy Duty / 24 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   4283: {
     panel_style: "Long Panel",
@@ -533,7 +571,8 @@ const __products = {
     r_value_text: "9.65",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   4206: {
     panel_style: "Long Panel",
@@ -547,7 +586,8 @@ const __products = {
     r_value_text: "13.40",
     rtm_construction_type: '1-1/2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-3/8" Polyurethane',
-    section_material: "Medium Duty / 28 Ga. Steel"
+    section_material: "Medium Duty / 28 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   4216: {
     panel_style: "Long Panel",
@@ -561,7 +601,8 @@ const __products = {
     r_value_text: "17.19",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   5250: {
     panel_style: "Short Panel",
@@ -575,7 +616,8 @@ const __products = {
     r_value_text: " -",
     rtm_construction_type: '2" Thick - 1-Sided Steel',
     rtm_insulation_type: "No Insulation",
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   5251: {
     panel_style: "Short Panel",
@@ -589,7 +631,8 @@ const __products = {
     r_value_text: "7.94",
     rtm_construction_type: '2" Thick - 1-Sided Steel with Vinyl Back',
     rtm_insulation_type: '1-3/8" Polystyrene',
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   5283: {
     panel_style: "Short Panel",
@@ -603,7 +646,8 @@ const __products = {
     r_value_text: "9.65",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   5216: {
     panel_style: "Short Panel",
@@ -617,7 +661,8 @@ const __products = {
     r_value_text: "16.55",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   5950: {
     panel_style: "Long Panel",
@@ -631,7 +676,8 @@ const __products = {
     r_value_text: " -",
     rtm_construction_type: '2" Thick - 1-Sided Steel',
     rtm_insulation_type: "No Insulation",
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   5951: {
     panel_style: "Long Panel",
@@ -645,7 +691,8 @@ const __products = {
     r_value_text: "7.94",
     rtm_construction_type: '2" Thick - 1-Sided Steel with Vinyl Back',
     rtm_insulation_type: '1-3/8" Polystyrene',
-    section_material: "Standard /  25 Ga. Steel"
+    section_material: "Standard /  25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-One-Sided-Steel.pdf"
   },
   5983: {
     panel_style: "Long Panel",
@@ -659,7 +706,8 @@ const __products = {
     r_value_text: "9.65",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   5916: {
     panel_style: "Long Panel",
@@ -673,7 +721,8 @@ const __products = {
     r_value_text: "16.55",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   3295: {
     panel_style: "Full-View",
@@ -687,7 +736,8 @@ const __products = {
     r_value_text: " ",
     rtm_construction_type: '2" Thick - Hollow Aluminum Rails',
     rtm_insulation_type: "No Insulation",
-    section_material: "Heavy Duty / Aluminum"
+    section_material: "Heavy Duty / Aluminum",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Full-View.pdf"
   },
   2717: {
     panel_style: "Sterling",
@@ -700,7 +750,8 @@ const __products = {
     r_value_text: "15.07",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: "Polyurethane",
-    section_material: "Heavy Duty / 24 Ga. Steel"
+    section_material: "Heavy Duty / 24 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   5300: {
     panel_style: "Overlay",
@@ -714,7 +765,8 @@ const __products = {
     r_value_text: "10.29",
     rtm_construction_type: '2-1/2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Carriage-House.pdf"
   },
   5400: {
     panel_style: "Overlay",
@@ -728,7 +780,8 @@ const __products = {
     r_value_text: "10.78",
     rtm_construction_type: '2-3/4" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Carriage-House.pdf"
   },
   5500: {
     panel_style: "Overlay",
@@ -742,7 +795,8 @@ const __products = {
     r_value_text: "10.67",
     rtm_construction_type: '2-1/2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-13/16" Polystyrene',
-    section_material: "Medium Duty / 27 Ga. Steel"
+    section_material: "Medium Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Carriage-House.pdf"
   },
   5600: {
     panel_style: "Overlay",
@@ -756,7 +810,8 @@ const __products = {
     r_value_text: "17.54",
     rtm_construction_type: '2-1/2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Carriage-House.pdf"
   },
   5700: {
     panel_style: "Overlay",
@@ -770,7 +825,8 @@ const __products = {
     r_value_text: "18.03",
     rtm_construction_type: '2-3/4" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Carriage-House.pdf"
   },
   5800: {
     panel_style: "Overlay",
@@ -784,7 +840,8 @@ const __products = {
     r_value_text: "17.92",
     rtm_construction_type: '2-1/2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / 27 Ga. Steel"
+    section_material: "Heavy Duty / 27 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Carriage-House.pdf"
   },
   2291: {
     panel_style: "Recessed",
@@ -798,7 +855,8 @@ const __products = {
     r_value_text: "12.35",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-3/8" Polyurethane',
-    section_material: "Heavy Duty / 25 Ga. Steel"
+    section_material: "Heavy Duty / 25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2294: {
     panel_style: "Recessed",
@@ -812,7 +870,8 @@ const __products = {
     r_value_text: "12.35",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-3/8" Polyurethane',
-    section_material: "Heavy Duty / 25 Ga. Steel"
+    section_material: "Heavy Duty / 25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2296: {
     panel_style: "Recessed",
@@ -826,7 +885,8 @@ const __products = {
     r_value_text: "12.35",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-3/8" Polyurethane',
-    section_material: "Heavy Duty / 25 Ga. Steel"
+    section_material: "Heavy Duty / 25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2298: {
     panel_style: "Recessed",
@@ -840,7 +900,8 @@ const __products = {
     r_value_text: "12.35",
     rtm_construction_type: '2" Thick - 2-Sided Steel',
     rtm_insulation_type: '1-3/8" Polyurethane',
-    section_material: "Heavy Duty / 25 Ga. Steel"
+    section_material: "Heavy Duty / 25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   2701: {
     panel_style: "Fiberglass",
@@ -854,7 +915,8 @@ const __products = {
     r_value_text: "16.95",
     rtm_construction_type: '2" Thick - 2-Sided Fiberglass and Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / Formed Fiberglass and 25 Ga. Steel"
+    section_material: "Heavy Duty / Formed Fiberglass and 25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Fiberglass.pdf"
   },
   2702: {
     panel_style: "Fiberglass",
@@ -868,7 +930,8 @@ const __products = {
     r_value_text: "16.95",
     rtm_construction_type: '2" Thick - 2-Sided Fiberglass and Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / Formed Fiberglass and 25 Ga. Steel"
+    section_material: "Heavy Duty / Formed Fiberglass and 25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Fiberglass.pdf"
   },
   2703: {
     panel_style: "Fiberglass",
@@ -882,7 +945,8 @@ const __products = {
     r_value_text: "16.95",
     rtm_construction_type: '2" Thick - 2-Sided Fiberglass and Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / Formed Fiberglass and 25 Ga. Steel"
+    section_material: "Heavy Duty / Formed Fiberglass and 25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Fiberglass.pdf"
   },
   2751: {
     panel_style: "Fiberglass",
@@ -896,7 +960,8 @@ const __products = {
     r_value_text: "16.95",
     rtm_construction_type: '2" Thick - 2-Sided Fiberglass and Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / Formed Fiberglass and 25 Ga. Steel"
+    section_material: "Heavy Duty / Formed Fiberglass and 25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Fiberglass.pdf" 
   },
   2752: {
     panel_style: "Fiberglass",
@@ -910,7 +975,8 @@ const __products = {
     r_value_text: "16.95",
     rtm_construction_type: '2" Thick - 2-Sided Fiberglass and Steel',
     rtm_insulation_type: '1-7/8" Polyurethane',
-    section_material: "Heavy Duty / Formed Fiberglass and 25 Ga. Steel"
+    section_material: "Heavy Duty / Formed Fiberglass and 25 Ga. Steel",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Fiberglass.pdf"
   },
   3297: {
     panel_style: "Full-View",
@@ -924,7 +990,8 @@ const __products = {
     r_value_text: "",
     rtm_construction_type: '2" Thick - Insulated Aluminum Rails',
     rtm_insulation_type: "Polystyrene Insulation",
-    section_material: "Heavy Duty / Aluminum"
+    section_material: "Heavy Duty / Aluminum",
+    warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Full-View.pdf"
   }
 };
 // RENDER DATA<><<<<<<><>><<<<<<<<<<<<<<<<<<<<><><><
@@ -13923,7 +13990,7 @@ makeArray = () => {
       section_material: __products[prop].section_material,
       url: "",
       images: [],
-      warranty: "",
+      warranty: __products[prop].warranty,
       windload: "https://www.chiohd.com/wind-load"
     };
     productsArray.push(doorModelObj);

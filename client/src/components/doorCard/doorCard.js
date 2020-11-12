@@ -1,6 +1,9 @@
 import React from "react";
 import { Card, ListGroup, ListGroupItem, Carousel } from "react-bootstrap";
 import "./style.css";
+import {GrDocumentText,GrDocument} from "react-icons/gr"
+import {FaGlobe} from "react-icons/fa"
+import {GiWindsock} from "react-icons/gi"
 
 export default function doorCard(props) {
   return (
@@ -59,21 +62,21 @@ export default function doorCard(props) {
           <strong>Section Material:</strong> {props.section_material}
         </ListGroupItem>
       </ListGroup>
-      <Card.Body>
+      <Card.Body className="cardBody">
         <ul>
           <li>
             <Card.Link target="_blank" href={props.family_brochure_link}>
-              Brochure
+            <GrDocumentText/>
             </Card.Link>
           </li>
           <li>
             <Card.Link target="_blank" href={props.model_flyer_link}>
-              Flyer Brochure
+              <GrDocument/>
             </Card.Link>
           </li>
           <li>
             <Card.Link target="_blank" href={props.url}>
-              Website
+              <FaGlobe/>
             </Card.Link>
           </li>
           <li>
@@ -83,7 +86,7 @@ export default function doorCard(props) {
           </li>
           <li>
             <Card.Link target="_blank" href={props.windload}>
-              Windload
+              <GiWindsock/>
             </Card.Link>
           </li>
         </ul>

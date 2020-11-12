@@ -4,3 +4,8 @@
   margin: 10px 10px;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
 }
+
+li {
+  display: inline;
+  margin: 0 5px 0 5px;
+}

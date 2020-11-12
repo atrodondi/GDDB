@@ -32,7 +32,7 @@ module.exports = {
       ],
     })
       .then((result) => {
-        // console.log(result);
+        console.log(result);
         // console.log(result.length);
         res.json(result);
       })
