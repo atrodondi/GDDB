@@ -48,19 +48,17 @@ export default function doorCard(props) {
           {props.model}
           <strong style={{ float: "right" }}>{props.maker}</strong>
         </Card.Title>
-        <Card.Text className="text-muted">{props.product_family}</Card.Text>
+        {/* <Card.Text className="text-muted">{props.product_family}</Card.Text> */}
       </Card.Body>
       <ListGroup className="list-group-flush">
-        <ListGroupItem>
-          <strong>Price:</strong> {props.price}
+        <ListGroupItem style={{textAlign:"center"}}>
+          <strong>Price:</strong> {props.price} | <strong>Rv:</strong> {props.r_value_text}
         </ListGroupItem>
-        <ListGroupItem>
-          <strong>Rv:</strong> {props.r_value_text}
-        </ListGroupItem>
+        
 
-        <ListGroupItem>
+        {/* <ListGroupItem>
           <strong>Section Material:</strong> {props.section_material}
-        </ListGroupItem>
+        </ListGroupItem> */}
       </ListGroup>
       <Card.Body className="cardBody">
         <ul>

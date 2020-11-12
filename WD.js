@@ -3,8 +3,8 @@ const wdArray = [
     model: "8450",
     maker: "Wayne Dalton",
     panel_style: "Frameless",
-    product_family: "Full-View Aluminum",
-    door_style_text: "Full-View",
+    product_family: "Full View Aluminum",
+    door_style_text: "Full View",
     family_brochure_link:
       "https://www.wayne-dalton.com/Documents/Misc%20Brochures/residential-garage-door-catalog.pdf",
     model_flyer_link:
@@ -27,9 +27,9 @@ const wdArray = [
   {
     model: "8800",
     maker: "Wayne Dalton",
-    panel_style: "Full-View",
-    product_family: "Full-View Aluminum",
-    door_style_text: "Full-View (Western US ONLY)",
+    panel_style: "Full View",
+    product_family: "Full View Aluminum",
+    door_style_text: "Full View (Western US ONLY)",
     family_brochure_link:
       "https://www.wayne-dalton.com/Documents/Misc%20Brochures/residential-garage-door-catalog.pdf",
     model_flyer_link:
@@ -52,9 +52,9 @@ const wdArray = [
   {
     model: "8850",
     maker: "Wayne Dalton",
-    panel_style: "Full-View",
-    product_family: "Full-View Aluminum",
-    door_style_text: "Full-View (Eastern US ONLY)",
+    panel_style: "Full View",
+    product_family: "Full View Aluminum",
+    door_style_text: "Full View (Eastern US ONLY)",
     family_brochure_link:
       "https://www.wayne-dalton.com/Documents/Misc%20Brochures/residential-garage-door-catalog.pdf",
     model_flyer_link:

@@ -725,9 +725,9 @@ const __products = {
     warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Two-Sided.pdf"
   },
   3295: {
-    panel_style: "Full-View",
-    product_family: "Full-View Aluminum",
-    door_style_text: "Full-View",
+    panel_style: "Full View",
+    product_family: "Full View Aluminum",
+    door_style_text: "Full View",
     family_brochure_link:
       "https://www.chiohd.com/hubfs/Homeowner/Products/Full-View/Full-View-Brochure.pdf",
     model_flyer_link:
@@ -979,9 +979,9 @@ const __products = {
     warranty:"https://cdn2.hubspot.net/hubfs/2029938/Support/Warranty/CHI-Warranty-Fiberglass.pdf"
   },
   3297: {
-    panel_style: "Full-View",
-    product_family: "Full-View Aluminum",
-    door_style_text: "Full-View",
+    panel_style: "Full View",
+    product_family: "Full View Aluminum",
+    door_style_text: "Full View",
     family_brochure_link:
       "https://www.chiohd.com/hubfs/Homeowner/Products/Full-View/Full-View-Brochure.pdf",
     model_flyer_link:
